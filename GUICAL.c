@@ -2,7 +2,8 @@
 
           GUI Scientific Calculator 
 
-Programmer           : Nemonet TYP 💻
+Programmer     : Nemonet
+                 The Young Programmer 💻
 
 
 Software Details
