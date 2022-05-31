@@ -10,7 +10,25 @@ It uses BGI Graphics to render all the graphics.
 
 
 
-(image goes here) 
+
+
+![images (2)](https://user-images.githubusercontent.com/79866006/171078196-0affdf6b-97c3-48db-bab1-784c7d528b12.jpeg)
+
+
+
+
+
+
+
+![calculator](https://user-images.githubusercontent.com/79866006/171078232-b472673e-51d4-4f0e-b993-71e2c56fab7b.png)
+
+
+
+
+
+
+
+
 
 
 
