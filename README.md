@@ -39,7 +39,7 @@ It uses BGI Graphics to render all the graphics.
 
 * Download and Install <a href="https://www.google.com/amp/s/errorsea.com/download-and-install-turbo-c-for-windows-11/amp/" target="_blank">Turbo C++ </a>
 
-* Open the guical.c file in Turbo C++
+* Open the ‛guical.c‛ file in Turbo C++
 
 * Check out <a href="https://www.google.com/amp/s/notesformsc.org/compile-program-turbo-c/%3famphttps://www.google.com/amp/s/notesformsc.org/compile-program-turbo-c/%3famp" target="_blank">Reference </a>
 
@@ -48,17 +48,21 @@ It uses BGI Graphics to render all the graphics.
 
 * Download and Install <a href="https://www.google.com/amp/s/www.geeksforgeeks.org/how-to-install-turbo-cpp-on-macos/amp/https://www.google.com/amp/s/www.geeksforgeeks.org/how-to-install-turbo-cpp-on-macos/amp/" target="_blank"> Turbo C++ </a>
 
-* Open the guical.c file in Turbo C++
+* Open the ‛guical.c‛ file in Turbo C++
 
 * check out <a href="https://codingee.com/download-and-run-turbo-c-on-mac-os/" target="_blank"> Refrence</a>
 
 
 **For Linux Users:**
 
+* It kind of complicated to get it done on Linux, but once I figure a way, will drop it here. 
 
 
 
-# 
+
+# 🌟 🌟 🌟 
+Pls Comment if you face any Error. 
+And don't forget to give a Star 🌟. 
 
 
 
